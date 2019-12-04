@@ -1,0 +1,47 @@
+body {
+    padding-left: 0em;
+    font-family: "Alex Brush";
+    color: rgb(13, 233, 233);
+    font-size:190%;
+    text-align: center;
+    background-color: rgb(240, 71, 20) }
+  ul.navbar {
+    list-style-type: none;
+    padding: 5;
+    margin: 5;
+    margin-left: .5em;
+    position: absolute;
+    top: 0em;
+    left: 2em;
+    width: 7em }
+  h1 {
+    font-family: "After Shok"}
+  ul.navbar li {
+    background: rgb(13, 233, 233);
+    margin: 0.6em 0;
+    padding: 0.1em;
+    border-right: 1em solid rgb(155, 9, 9) }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: rgb(155, 9, 9) }
+  a:visited {
+    color: rgb(0, 0, 0) }
+  p {
+   font-family: "Arial Black";
+   color: rgb(255, 255, 255);
+   font-size:100%;
+   text-align: center;
+   padding-top: 0em }
+  address {
+    margin-top: 9em;
+    padding-top: 9em;
+    border-top: thin dotted }
+h2 {
+    font-family: "Arial" }
+h4 {
+    font-family: "Arial";
+    font-size: 100% }
+img {
+    font-family: "Arial";
+    text-align: center}

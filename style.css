@@ -1,0 +1,33 @@
+body {
+    padding-left: 40em;
+    font-family: "Alex Brush";
+    size: 30ex;
+    color: rgb(13, 233, 233);
+    background-color: rgb(240, 71, 20) }
+  ul.navbar {
+    list-style-type: none;
+    padding: 2;
+    margin:2;
+    position: absolute;
+    top: 9em;
+    left: 9em;
+    width: 9em }
+  h1 {
+    font-family: "After Shok";
+    size: 20ex}
+  ul.navbar li {
+    background: rgb(13, 233, 233);
+    margin: 0.5em 0;
+    padding: 0.3em;
+    size: 30ex;
+    border-right: 1em solid rgb(110, 9, 9) }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: rgb(100, 09, 9) }
+  a:visited {
+    color: purple }
+  address {
+    margin-top: 100em;
+    padding-top: 100em;
+    border-top: thin dotted }
